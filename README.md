@@ -4,7 +4,7 @@
 * Clone this repository
 * Install node_modules
 * Import MySQL database file named "serkom.sql" from phpmyadmin
-* Activate your database MySQL
+* Activate your MySQL database
 * Run this project and enjoy coding!
 
 ## Lists of endpoint
