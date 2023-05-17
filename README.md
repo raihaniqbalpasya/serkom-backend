@@ -12,4 +12,4 @@
 * Method GET : "/api/mahasiswa/:id" => get data by id
 * Method POST : "/api/mahasiswa" => create data
 * Method PUT : "/api/mahasiswa/:id" => update data by id
-* Method DELETE : "/api/mahasiswa:/id" => delete data by id
+* Method DELETE : "/api/mahasiswa/:id" => delete data by id
